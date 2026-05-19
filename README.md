@@ -1,4 +1,4 @@
-# 🌍 Chemnitz Cultural Explorer
+# 🌍 GeoJSON Explorer
 
 [![Node.js Version](https://img.shields.io/badge/node-%3E%3D18.0-blue)](https://nodejs.org/)
 [![PostgreSQL Version](https://img.shields.io/badge/postgresql-%3E%3D14.0-blue)](https://www.postgresql.org/)
